@@ -1,4 +1,4 @@
-Side project for capture the flag. Inlcudes putting together all the hardware for transmitting and receiving information in real time.
+Side project for capture the flag. Includes putting together all the hardware for transmitting and receiving information in real time.
 
 IR motion sensor detects when someone is trying to steal my flag. Microcontorllers (Heltic V3) are used to transmit information to me.
 
